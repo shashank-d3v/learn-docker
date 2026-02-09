@@ -256,3 +256,9 @@ terraform.rc
 
 # CSV files
 *.csv
+
+# service acount key
+service-account.json
+
+# encoded env
+.env_encoded
